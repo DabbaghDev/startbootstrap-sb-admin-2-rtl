@@ -20,7 +20,7 @@ This file is being completed.
 
 
 
-<div>
+<div style="text-align: right">
 روش استفاده
 <br>
 ۱- دانلود اصل پروژه از https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
