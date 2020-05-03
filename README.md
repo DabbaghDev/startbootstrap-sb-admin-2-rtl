@@ -1,9 +1,9 @@
-<html>
 # startbootstrap-sb-admin-2-rtl
 File style Right-To-Lefft for startbootstrap-sb-admin-2 created by https://github.com/BlackrockDigital
 
 
-
+<br>
+<br>
 use
 <br>
 1- Download the original project from https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
@@ -21,7 +21,6 @@ This file is being completed.
 
 
 
-<div style="text-align: right">
 روش استفاده
 <br>
 ۱- دانلود اصل پروژه از https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
@@ -32,7 +31,3 @@ This file is being completed.
 نکته
 <br>
 این فایل در حال تکمیل میباشد.
-</div>
-
-
-</html>
