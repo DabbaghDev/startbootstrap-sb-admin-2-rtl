@@ -20,6 +20,7 @@ This file is being completed.
 
 
 
+<div>
 روش استفاده
 <br>
 ۱- دانلود اصل پروژه از https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
@@ -30,3 +31,4 @@ This file is being completed.
 نکته
 <br>
 این فایل در حال تکمیل میباشد.
+</div>
