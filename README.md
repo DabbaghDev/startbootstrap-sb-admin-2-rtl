@@ -1,3 +1,4 @@
+<html>
 # startbootstrap-sb-admin-2-rtl
 File style Right-To-Lefft for startbootstrap-sb-admin-2 created by https://github.com/BlackrockDigital
 
@@ -32,3 +33,6 @@ This file is being completed.
 <br>
 این فایل در حال تکمیل میباشد.
 </div>
+
+
+</html>
